@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit/DT-Primer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit/LR-Primer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit/ispitni_zadatak_klasterizacija" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit/kNN-Primer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ispit/neuronskeMreze-Primer" vcs="Git" />
+  </component>
+</project>
